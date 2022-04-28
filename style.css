@@ -1,0 +1,46 @@
+.body {
+    margin: 0;
+  }
+  
+  .section {
+      padding: 100px 20px;
+      position: relative;
+  }
+  .container {
+      max-width: 700px;
+      margin: 0 auto;
+      background-color: #fff;
+      padding: 50px 80px;
+      border-radius: 8px;
+      box-shadow: 0 30px 60px -12px rgba(50,50,93,.25),0 18px 36px -18px rgba(0,0,0,.3),0 -12px 36px -8px rgba(0,0,0,.025);
+  }
+  .shape-1 {
+    border-radius: 5px;
+    background-color: #42a5f5;
+    top: 80px;
+    left: 30px;
+    right: 30px;
+    height: 80px;
+    position: absolute;
+    z-index: -1;
+  }
+  .shape-2 {
+    border-radius: 5px;
+    background-color: #4527a0;
+    top: 180px;
+    left: 5%;
+    right: 0%;
+    height: 80px;
+    position: absolute;
+    z-index: -1;
+  }
+  .shape-3 {
+    border-radius: 5px;
+    background-color: #AED581;
+    top: 280px;
+    left: 10%;
+    right: 0%;
+    height: 80px;
+    position: absolute;
+    z-index: -1;
+  }
